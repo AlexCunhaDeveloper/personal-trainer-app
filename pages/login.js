@@ -1,4 +1,5 @@
 import { LockClosedIcon } from '@heroicons/react/solid'
+import useAuth from "../hooks/useAuth"
 import logo from '../public/vercel.svg'
 export default function Login() {
 
